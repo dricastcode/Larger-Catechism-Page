@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const port = 4000;
-const { largerCatechism } = require("./data");
+const { largerCatechism } = require("./data/largerCatechism");
 
 // Serve the static files (HTML, CSS, JS) from the public directory
 app.use(express.static("public"));
@@ -13,7 +13,7 @@ app.get("/data", (req, res) => {
 });
 app.get("/new", (req, res) => {
   res.json({
-    largerCatechism,
+    data: [...largerCatechism],
   });
 });
 
