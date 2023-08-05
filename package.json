@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "server": "nodemon app.js",
+    "generate-json": "node data/json-conversion.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "echo \"Error: no test specified\" && exit 1"
