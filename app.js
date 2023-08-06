@@ -16,6 +16,17 @@ app.get("/new", (req, res) => {
     data: [...largerCatechism],
   });
 });
+app.get("/check", (req, res) => {
+  let checkArray = [];
+  largerCatechism.map((item) => {
+    if (item.answer.length !== item.proofTexts.length) {
+      checkArray.push(`${item.id}`);
+    }
+  });
+  res.json({
+    badQuestions: checkArray,
+  });
+});
 
 app.listen(port, () =>
   console.log(`Server is running on http://localhost:${port}`)
