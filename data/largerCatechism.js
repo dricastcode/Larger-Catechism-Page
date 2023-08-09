@@ -6302,6 +6302,1244 @@ const largerCatechism = [
       ],
     ],
   },
+  {
+    id: 104,
+    question: "What are the duties required in the first commandment?",
+    answer: [
+      "The duties required in the first commandment are, the knowing and acknowledging of God to be the only true God, and our God;",
+      "and to worship and glorify him accordingly, by thinking, meditating, remembering, highly esteeming, honoring, adoring, choosing, loving, desiring, fearing of him; believing him; trusting, hoping, delighting, rejoicing in him; being zealous for him; calling upon him, giving all praise and thanks, and yielding all obedience and submission to him with the whole man; being careful in all things to please him, and sorrowful when in anything he is offended; and walking humbly with him."
+    ],
+    proofTexts: [
+      [
+        { book: "1 Chronicles", verse: "28:9", text: "" },
+        { book: "Deuteronomy", verse: "26:17", text: "" },
+        { book: "Isaiah", verse: "43:10", text: "" },
+        { book: "Jeremiah", verse: "14:22", text: "" }
+      ],
+      [
+        { book: "Psalms", verse: "29:2", text: "" },
+        { book: "Psalms", verse: "95:6-7", text: "" },
+        { book: "Matthew", verse: "4:10", text: "" }
+      ],
+      [
+        { book: "Malachi", verse: "3:16", text: "" }
+      ],
+      [
+        { book: "Psalms", verse: "63:6", text: "" }
+      ],
+      [
+        { book: "Ecclesiastes", verse: "12:1", text: "" }
+      ],
+      [
+        { book: "Psalms", verse: "71:19", text: "" }
+      ],
+      [
+        { book: "Malachi", verse: "1:6", text: "" }
+      ],
+      [
+        { book: "Isaiah", verse: "45:23", text: "" }
+      ],
+      [
+        { book: "Joshua", verse: "24:15, 22", text: "" }
+      ],
+      [
+        { book: "Deuteronomy", verse: "6:5", text: "" }
+      ],
+      [
+        { book: "Psalms", verse: "73:25", text: "" }
+      ],
+      [
+        { book: "Isaiah", verse: "8:13", text: "" }
+      ],
+      [
+        { book: "Exodus", verse: "14:31", text: "" }
+      ],
+      [
+        { book: "Isaiah", verse: "26:4", text: "" }
+      ],
+      [
+        { book: "Psalms", verse: "130:7", text: "" }
+      ],
+      [
+        { book: "Psalms", verse: "37:4", text: "" }
+      ],
+      [
+        { book: "Psalms", verse: "32:11", text: "" }
+      ],
+      [
+        { book: "Romans", verse: "12:11", text: "" },
+        { book: "Numbers", verse: "25:11", text: "" }
+      ],
+      [
+        { book: "Philippians", verse: "4:6", text: "" }
+      ],
+      [
+        { book: "Jeremiah", verse: "7:28", text: "" },
+        { book: "James", verse: "4:7", text: "" }
+      ],
+      [
+        { book: "1 John", verse: "3:22", text: "" }
+      ],
+      [
+        { book: "Jeremiah", verse: "31:18", text: "" },
+        { book: "Psalms", verse: "119:136", text: "" }
+      ],
+      [
+        { book: "Micah", verse: "6:8", text: "" }
+      ],
+    ],
+  },
+  {
+    id: 105,
+    question: "What are the sins forbidden in the first commandment?",
+    answer: [
+      "The sins forbidden in the first commandment are, atheism, in denying or not having a God;",
+      "Idolatry, in having or worshiping more gods than one, or any with or instead of the true God;",
+      "the not having and avouching him for God, and our God;",
+      "the omission or neglect of anything due to him, required in this commandment;",
+      "ignorance,",
+      "forgetfulness,",
+      "misapprehensions,",
+      "false opinions,",
+      "unworthy and wicked thoughts of him;",
+      "bold and curious searching into his secrets;",
+      "all profaneness,",
+      "hatred of God;",
+      "self-love,",
+      "self-seeking,",
+      "and all other inordinate and immoderate setting of our mind, will, or affections upon other things, and taking them off from him in whole or in part;",
+      "vain credulity,",
+      "unbelief,",
+      "heresy,",
+      "misbelief,",
+      "distrust,",
+      "despair,",
+      "incorrigibleness,",
+      "and insensibleness under judgments,",
+      "hardness of heart,",
+      "pride,",
+      "presumption,",
+      "carnal security,",
+      "tempting of God;",
+      "using unlawful means,",
+      "and trusting in lawful means;",
+      "carnal delights and joys;",
+      "corrupt, blind, and indiscreet zeal;",
+      "lukewarmness,",
+      "and deadness in the things of God;",
+      "estranging ourselves, and apostatizing from God;",
+      "praying, or giving any religious worship, to saints, angels, or any other creatures;",
+      "all compacts and consulting with the devil,",
+      "and hearkening to his suggestions;",
+      "making men the lords of our faith and conscience;",
+      "slighting and despising God and his commands;",
+      "resisting and grieving of his Spirit,",
+      "discontent and impatience at his dispensations, charging him foolishly for the evils he inflicts on us;",
+      "and ascribing the praise of any good we either are, have, or can do, to fortune,",
+      "idols,",
+      "ourselves,",
+      "or any other creature."
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Psalms",
+          verse: "14:1",
+          text: ""
+        },
+        {
+          book: "Ephesians",
+          verse: "2:12",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "2:27-28",
+          text: ""
+        },
+        {
+          book: "1 Thessalonians",
+          verse: "1:9",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "81:11",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "43:22-24",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "4:22",
+          text: ""
+        },
+        {
+          book: "Hosea",
+          verse: "4:1, 6",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "2:32",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "17:23, 29",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "40:18",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "50:21",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "29:29",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Titus",
+          verse: "1:16",
+          text: ""
+        },
+        {
+          book: "Hebrews",
+          verse: "12:16",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "1:30",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "2 Timothy",
+          verse: "3:2",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Philippians",
+          verse: "2:21",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 John",
+          verse: "2:15-16",
+          text: ""
+        },
+        {
+          book: "1 Samuel",
+          verse: "2:29",
+          text: ""
+        },
+        {
+          book: "Colossians",
+          verse: "3:2, 5",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 John",
+          verse: "4:1",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Hebrews",
+          verse: "3:12",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Galatians",
+          verse: "5:20",
+          text: ""
+        },
+        {
+          book: "Titus",
+          verse: "3:10",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "26:9",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "78:22",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Genesis",
+          verse: "4:13",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "5:3",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "42:25",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "2:5",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "13:15",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "19:13",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Zephaniah",
+          verse: "1:12",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "4:7",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "3:8",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "17:5",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "2 Timothy",
+          verse: "3:4",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Galatians",
+          verse: "4:17",
+          text: ""
+        },
+        {
+          book: "John",
+          verse: "16:2",
+          text: ""
+        },
+        {
+          book: "Romans",
+          verse: "10:2",
+          text: ""
+        },
+        {
+          book: "Luke",
+          verse: "9:54-55",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Revelation",
+          verse: "3:16",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Revelation",
+          verse: "3:1",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Ezekiel",
+          verse: "14:5",
+          text: ""
+        },
+        {
+          book: "Isaiah",
+          verse: "1:4-5",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "1:25",
+          text: ""
+        },
+        {
+          book: "Romans",
+          verse: "10:13-14",
+          text: ""
+        },
+        {
+          book: "Hosea",
+          verse: "4:12",
+          text: ""
+        },
+        {
+          book: "Acts",
+          verse: "10:25-26",
+          text: ""
+        },
+        {
+          book: "Revelation",
+          verse: "19:10",
+          text: ""
+        },
+        {
+          book: "Matthew",
+          verse: "4:10",
+          text: ""
+        },
+        {
+          book: "Colossians",
+          verse: "2:18",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Leviticus",
+          verse: "20:6",
+          text: ""
+        },
+        {
+          book: "1 Samuel",
+          verse: "28:7, 11",
+          text: ""
+        },
+        {
+          book: "1 Chronicles",
+          verse: "10:13-14",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "5:3",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "2 Corinthians",
+          verse: "1:24",
+          text: ""
+        },
+        {
+          book: "Matthew",
+          verse: "23:9",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "32:15",
+          text: ""
+        },
+        {
+          book: "2 Samuel",
+          verse: "12:9",
+          text: ""
+        },
+        {
+          book: "Proverbs",
+          verse: "13:13",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "7:51",
+          text: ""
+        },
+        {
+          book: "Ephesians",
+          verse: "4:30",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "73:2-3, 13-15, 22",
+          text: ""
+        },
+        {
+          book: "Job",
+          verse: "1:22",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 Samuel",
+          verse: "6:7-9",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Daniel",
+          verse: "5:23",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "8:17",
+          text: ""
+        },
+        {
+          book: "Daniel",
+          verse: "4:30",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Habakkuk",
+          verse: "1:16",
+          text: ""
+        }
+      ],
+    ],
+  },
+  {
+    id: 106,
+    question: "What are we specially taught by these words before me in the first commandment?",
+    answer: [
+      "These words before me, or before my face, in the first commandment, teach us, that God, who seeth all things, taketh special notice of, and is much displeased with, the sin of having any other God: that so it may be an argument to dissuade from it, and to aggravate it as a most impudent provocation:",
+      "as also to persuade us to do as in his sight,: Whatever we do in his service."
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Ezekiel",
+          verse: "8:5-18",
+          text: ""
+        },
+        {
+          book: "Psalms",
+          verse: "44:20-21",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "I Chronicles",
+          verse: "28:9",
+          text: ""
+        }
+      ]
+    ]
+  },
+  {
+    id: 107,
+    question: "Which is the second commandment?",
+    answer: [
+      "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and shewing mercy unto thousands of them that love me, and keep my commandments."
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Exodus",
+          verse: "20:4-6",
+          text: ""
+        }
+      ]
+    ]
+  },
+  {
+    id: 108,
+    question: "What are the duties required in the second commandment?",
+    answer: [
+      "The duties required in the second commandment are, the receiving, observing, and keeping pure and entire, all such religious worship and ordinances as God hath instituted in his word;",
+      "particularly prayer and thanksgiving in the name of Christ;",
+      "the reading, preaching, and hearing of the word;",
+      "the administration and receiving of the sacraments;",
+      "church government and discipline;",
+      "the ministry and maintenance thereof;",
+      "religious fasting;",
+      "swearing by the name of God,",
+      "and vowing unto him:",
+      "as also the disapproving, detesting, opposing, all false worship;",
+      "and, according to each one’s place and calling, removing it, and all monuments of idolatry."
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Deuteronomy",
+          verse: "32:46-47",
+          text: ""
+        },
+        {
+          book: "Matthew",
+          verse: "28:20",
+          text: ""
+        },
+        {
+          book: "Acts",
+          verse: "2:42",
+          text: ""
+        },
+        {
+          book: "1 Timothy",
+          verse: "6:13-14",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Philippians",
+          verse: "4:6",
+          text: ""
+        },
+        {
+          book: "Ephesians",
+          verse: "5:20",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "17:18-19",
+          text: ""
+        },
+        {
+          book: "Acts",
+          verse: "15:21",
+          text: ""
+        },
+        {
+          book: "2 Timothy",
+          verse: "4:2",
+          text: ""
+        },
+        {
+          book: "James",
+          verse: "1:21-22",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "28:19",
+          text: ""
+        },
+        {
+          book: "1 Corinthians",
+          verse: "11:23-30",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "16:19",
+          text: ""
+        },
+        {
+          book: "Matthew",
+          verse: "18:15-17",
+          text: ""
+        },
+        {
+          book: "1 Corinthians",
+          verse: "5",
+          text: ""
+        },
+        {
+          book: "1 Corinthians",
+          verse: "12:28",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Ephesians",
+          verse: "4:11-12",
+          text: ""
+        },
+        {
+          book: "1 Timothy",
+          verse: "5:17-18",
+          text: ""
+        },
+        {
+          book: "1 Corinthians",
+          verse: "9:1-15",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Joel",
+          verse: "2:12-13",
+          text: ""
+        },
+        {
+          book: "1 Corinthians",
+          verse: "7:5",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "6:13",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "19:21",
+          text: ""
+        },
+        {
+          book: "Psalms",
+          verse: "76:11",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "17:16-17",
+          text: ""
+        },
+        {
+          book: "Psalms",
+          verse: "16:4",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "7:5",
+          text: ""
+        },
+        {
+          book: "Isaiah",
+          verse: "30:22",
+          text: ""
+        }
+      ]
+    ]
+  },
+  {
+    id: 109,
+    question: "What are the sins forbidden in the second commandment?",
+    answer: [
+      "The sins forbidden in the second commandment are, all devising,",
+      "counseling,",
+      "commanding,",
+      "using,",
+      "and anywise approving, any religious worship not instituted by God himself;",
+      "tolerating a false religion;",
+      "the making any representation of God, of all or of any of the three persons, either inwardly in our mind, or outwardly in any kind of image or likeness of any creature whatsoever;",
+      "all worshiping of it,",
+      "or God in it or by it;",
+      "the making of any representation of feigned deities,",
+      "and all worship of them, or service belonging to them;",
+      "all superstitious devices,",
+      "corrupting the worship of God,",
+      "adding to it, or taking from it,",
+      "whether invented and taken up of ourselves,",
+      "or received by tradition from others,",
+      "though under the title of antiquity,",
+      "custom,",
+      "devotion,",
+      "good intent, or any other pretense whatsoever;",
+      "simony;",
+      "sacrilege;",
+      "all neglect,",
+      "contempt,",
+      "hindering,",
+      "and opposing the worship and ordinances which God hath appointed."
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Numbers",
+          verse: "15:39",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "13:6-8",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Hosea",
+          verse: "5:11",
+          text: ""
+        },
+      ],
+      [
+        {
+          book: "Micah",
+          verse: "6:16",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 Kings",
+          verse: "11:33",
+          text: ""
+        },
+        {
+          book: "1 Kings",
+          verse: "12:33",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "12:30-32",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "13:6-12",
+          text: ""
+        },
+        {
+          book: "Zechariah",
+          verse: "13:2-3",
+          text: ""
+        },
+        {
+          book: "Revelation",
+          verse: "2:2",
+          text: ""
+        },
+        {
+          book: "Revelation",
+          verse: "2:14-15",
+          text: ""
+        },
+        {
+          book: "Revelation",
+          verse: "2:20",
+          text: ""
+        },
+        {
+          book: "Revelation",
+          verse: "17:12",
+          text: ""
+        },
+        {
+          book: "Revelation",
+          verse: "17:16-17",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "4:15-19",
+          text: ""
+        },
+        {
+          book: "Acts",
+          verse: "17:29",
+          text: ""
+        },
+        {
+          book: "Romans",
+          verse: "1:21-23",
+          text: ""
+        },
+        {
+          book: "Romans",
+          verse: "1:25",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Daniel",
+          verse: "3:18",
+          text: ""
+        },
+        {
+          book: "Galatians",
+          verse: "4:8",
+          text: ""
+        },
+      ],
+      [
+        {
+          book: "Exodus",
+          verse: "32:5",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Exodus",
+          verse: "32:8",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 Kings",
+          verse: "18:26",
+          text: ""
+        },
+        {
+          book: "1 Kings",
+          verse: "18:28",
+          text: ""
+        },
+        {
+          book: "Isaiah",
+          verse: "65:11",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "17:22",
+          text: ""
+        },
+        {
+          book: "Colossians",
+          verse: "2:21-23",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Malachi",
+          verse: "1:7-8",
+          text: ""
+        },
+        {
+          book: "Malachi",
+          verse: "1:14",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "4:2",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "106:39",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "15:9",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 Peter",
+          verse: "1:18",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "44:17",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "65:3-5",
+          text: ""
+        },
+        {
+          book: "Galatians",
+          verse: "1:13-14",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 Samuel",
+          verse: "13:11-12",
+          text: ""
+        },
+        {
+          book: "1 Samuel",
+          verse: "15:21",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "8:18",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "2:22",
+          text: ""
+        },
+        {
+          book: "Malachi",
+          verse: "3:8",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Exodus",
+          verse: "4:24-26",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "22:5",
+          text: ""
+        },
+        {
+          book: "Malachi",
+          verse: "1:7",
+          text: ""
+        },
+        {
+          book: "Malachi",
+          verse: "1:13",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "23:13",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Acts",
+          verse: "13:44-45",
+          text: ""
+        },
+        {
+          book: "1 Thessalonians",
+          verse: "2:15-16",
+          text: ""
+        }
+      ]
+    ]
+  },
+  {
+    id: 110,
+    question: "What are the reasons annexed to the second commandment, the more to enforce it?",
+    answer: [
+      "The reasons annexed to the second commandment, the more to enforce it, contained in these words,",
+      "For I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children",
+      "unto the third and fourth generation of them that hate me; and showing mercy unto thousands of",
+      "them that love me, and keep my commandments; are, besides God’s sovereignty over us, and propriety",
+      "in us, his fervent zeal for his own worship, and his revengeful indignation against all false worship,",
+      "as being a spiritual whoredom; accounting the breakers of this commandment such as hate him,",
+      "and threatening to punish them unto divers generations; and esteeming the observers of it such as love him",
+      "and keep his commandments, and promising mercy to them unto many generations."
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Exodus",
+          verse: "20:5-6",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "45:11",
+          text: ""
+        },
+        {
+          book: "Revelation",
+          verse: "20:3-4",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Exodus",
+          verse: "34:13-14",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "1 Corinthians",
+          verse: "10:20-22",
+          text: ""
+        },
+        {
+          book: "Jeremiah",
+          verse: "7:18-20",
+          text: ""
+        },
+        {
+          book: "Ezekiel",
+          verse: "16:26-27",
+          text: ""
+        },
+        {
+          book: "Deuteronomy",
+          verse: "32:16-20",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Hosea",
+          verse: "2:2-4",
+          text: ""
+        }
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "5:29",
+          text: ""
+        }
+      ]
+    ]
+  },
+  {
+    id: 111,
+    question: "Which is the third commandment?",
+    answer: [
+      "The third commandment is, Thou shalt not take the name of the Lord thy God in vain:",
+      "for the Lord will not hold him guiltless that taketh his name in vain."
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Exodus",
+          verse: "20:7",
+          text: ""
+        }
+      ]
+    ]
+  },
+
 ];
 
 module.exports = { largerCatechism };
