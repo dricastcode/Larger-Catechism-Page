@@ -99,12 +99,6 @@ const findUniqueNamesForBibleBooks = (catechismArray) => {
   console.log(uniqueBooks.sort());
 };
 
-// { id: 11, answer: 5, proofTexts: 4 }
-// { id: 12, answer: 3, proofTexts: 2 }
-// { id: 42, answer: 6, proofTexts: 5 }
-// { id: 50, answer: 3, proofTexts: 2 }
-// { id: 90, answer: 9, proofTexts: 8 }
-
 const findAnswerAndProofTextLengthMismatch = (catechismArray) => {
   catechismArray.map((item) => {
     const { id, answer, proofTexts } = item;
