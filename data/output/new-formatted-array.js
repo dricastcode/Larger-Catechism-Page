@@ -1,4 +1,4 @@
-const largerCatechism = [
+const formattedArray = [
   {
     id: 1,
     question: "What is the chief and highest end of man?",
@@ -16212,4 +16212,4 @@ const largerCatechism = [
   },
 ];
 
-module.exports = { largerCatechism };
+module.exports = { formattedArray };
