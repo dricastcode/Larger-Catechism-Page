@@ -15030,8 +15030,9 @@ const largerCatechism = [
   {
     id: 188,
     question: "Of how many parts doth the Lord’s prayer consist?",
-    answer:
+    answer: [
       "The Lord’s prayer consists of three parts; a preface, petitions, and a conclusion.",
+    ],
   },
   {
     id: 189,
