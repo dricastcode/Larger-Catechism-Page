@@ -1,7 +1,7 @@
 import React from "react";
 
 const Catechism = ({ data }) => {
-  const { id, question, answer, proofTexts } = data;
+  const { id, question, answer } = data;
   return (
     <div className="catechism-container">
       <h3 className="question-title">
@@ -21,17 +21,19 @@ const Catechism = ({ data }) => {
       </div>
       <div className="proof-text-container">
         <ol>
-          {proofTexts.map((texts, index) => {
-            return (
-              <li key={index}>
-                {texts.map((item, i) => {
-                  return `${item.book} ${item.verse}${
-                    i === texts.length - 1 ? "" : "; "
-                  }`;
-                })}
-              </li>
-            );
-          })}
+          {data.proofTexts
+            ? data.proofTexts.map((texts, index) => {
+                return (
+                  <li key={index}>
+                    {texts.map((item, i) => {
+                      return `${item.book} ${item.verse}${
+                        i === texts.length - 1 ? "" : "; "
+                      }`;
+                    })}
+                  </li>
+                );
+              })
+            : null}
         </ol>
       </div>
     </div>

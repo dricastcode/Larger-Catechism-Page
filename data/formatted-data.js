@@ -1,4 +1,4 @@
-const largerCatechism = [
+const formattedArray = [
   {
     id: 1,
     question: "What is the chief and highest end of man?",
@@ -1343,7 +1343,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "8",
+          book: "Romans",
+          verse: "8:7-8",
           text: "",
         },
         {
@@ -3510,7 +3511,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "4",
+          book: "Psalms",
+          verse: "45:17",
           text: "",
         },
         {
@@ -4155,7 +4157,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "1",
+          book: "Acts",
+          verse: "16:30",
           text: "",
         },
         {
@@ -4912,11 +4915,13 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "5",
+          book: "Psalms",
+          verse: "51:8, 12",
           text: "",
         },
         {
-          verse: "7",
+          book: "Psalms",
+          verse: "77:1-12",
           text: "",
         },
         {
@@ -6203,20 +6208,15 @@ const largerCatechism = [
       ],
       [
         {
-          book: "1 John",
-          verse: "3:22",
+          book: "Romans",
+          verse: "2:5",
           text: "",
         },
       ],
       [
         {
           book: "Jeremiah",
-          verse: "31:18",
-          text: "",
-        },
-        {
-          book: "Psalms",
-          verse: "119:136",
+          verse: "13:15",
           text: "",
         },
       ],
@@ -6402,7 +6402,14 @@ const largerCatechism = [
       [
         {
           book: "1 John",
-          verse: "2:15-16",
+          verse: "3:2",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "7:18-20",
           text: "",
         },
         {
@@ -6445,21 +6452,26 @@ const largerCatechism = [
       [
         {
           book: "Acts",
-          verse: "26:9",
+          verse: "8:18",
           text: "",
         },
       ],
       [
         {
-          book: "Psalms",
-          verse: "78:22",
+          book: "Hebrews",
+          verse: "2:1-3",
           text: "",
         },
       ],
       [
         {
-          book: "Genesis",
-          verse: "4:13",
+          book: "Matthew",
+          verse: "27:42",
+          text: "",
+        },
+        {
+          book: "1 Corinthians",
+          verse: "10:10",
           text: "",
         },
       ],
@@ -6467,13 +6479,6 @@ const largerCatechism = [
         {
           book: "Jeremiah",
           verse: "5:3",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Isaiah",
-          verse: "42:25",
           text: "",
         },
       ],
@@ -6493,22 +6498,15 @@ const largerCatechism = [
       ],
       [
         {
+          book: "1 Timothy",
+          verse: "4:2",
+          text: "",
+        },
+      ],
+      [
+        {
           book: "Psalms",
-          verse: "19:13",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Zephaniah",
-          verse: "1:12",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Matthew",
-          verse: "4:7",
+          verse: "78:22",
           text: "",
         },
       ],
@@ -6521,37 +6519,58 @@ const largerCatechism = [
       ],
       [
         {
-          book: "Jeremiah",
-          verse: "17:5",
+          book: "Hosea",
+          verse: "2:2-4",
           text: "",
         },
       ],
       [
         {
-          book: "2 Timothy",
-          verse: "3:4",
+          book: "Acts",
+          verse: "8:18",
           text: "",
         },
       ],
       [
-        {
-          book: "Galatians",
-          verse: "4:17",
-          text: "",
-        },
-        {
-          book: "John",
-          verse: "16:2",
-          text: "",
-        },
         {
           book: "Romans",
-          verse: "10:2",
+          verse: "2:22",
           text: "",
         },
         {
-          book: "Luke",
-          verse: "9:54-55",
+          book: "Malachi",
+          verse: "3:8",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Exodus",
+          verse: "4:24-26",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "22:5",
+          text: "",
+        },
+        {
+          book: "Malachi",
+          verse: "1:7, 13",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "22:5",
+          text: "",
+        },
+        {
+          book: "Malachi",
+          verse: "1:7, 13",
           text: "",
         },
       ],
@@ -6571,45 +6590,37 @@ const largerCatechism = [
       ],
       [
         {
-          book: "Ezekiel",
-          verse: "14:5",
+          book: "Jeremiah",
+          verse: "2:21",
           text: "",
         },
         {
-          book: "Isaiah",
-          verse: "1:4-5",
+          book: "Revelation",
+          verse: "2:4-5",
           text: "",
         },
       ],
       [
         {
-          book: "Romans",
-          verse: "1:25, 10:13-14",
+          book: "Deuteronomy",
+          verse: "29:25-26",
           text: "",
         },
         {
-          book: "Hosea",
-          verse: "4:12",
+          book: "Hebrews",
+          verse: "12:15",
           text: "",
         },
-        {
-          book: "Acts",
-          verse: "10:25-26",
-          text: "",
-        },
+      ],
+      [
         {
           book: "Revelation",
-          verse: "19:10",
+          verse: "17:12, 16-17",
           text: "",
         },
         {
-          book: "Matthew",
-          verse: "4:10",
-          text: "",
-        },
-        {
-          book: "Colossians",
-          verse: "2:18",
+          book: "Jeremiah",
+          verse: "44:17",
           text: "",
         },
       ],
@@ -6632,8 +6643,8 @@ const largerCatechism = [
       ],
       [
         {
-          book: "Acts",
-          verse: "5:3",
+          book: "Isaiah",
+          verse: "8:19-20",
           text: "",
         },
       ],
@@ -6652,17 +6663,19 @@ const largerCatechism = [
       [
         {
           book: "Deuteronomy",
-          verse: "32:15",
+          verse: "31:20",
           text: "",
         },
         {
-          book: "2 Samuel",
-          verse: "12:9",
+          book: "Psalms",
+          verse: "50:22",
           text: "",
         },
+      ],
+      [
         {
-          book: "Proverbs",
-          verse: "13:13",
+          book: "Isaiah",
+          verse: "5:12",
           text: "",
         },
       ],
@@ -6680,39 +6693,13 @@ const largerCatechism = [
       ],
       [
         {
-          book: "Psalms",
-          verse: "73:2-3, 13-15, 22",
-          text: "",
-        },
-        {
           book: "Job",
           verse: "1:22",
           text: "",
         },
-      ],
-      [
         {
-          book: "1 Samuel",
-          verse: "6:7-9",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Daniel",
-          verse: "5:23",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Deuteronomy",
-          verse: "8:17",
-          text: "",
-        },
-        {
-          book: "Daniel",
-          verse: "4:30",
+          book: "Psalms",
+          verse: "73:2-3, 13-15, 22",
           text: "",
         },
       ],
@@ -7115,6 +7102,18 @@ const largerCatechism = [
       ],
       [
         {
+          book: "Acts",
+          verse: "7:22",
+          text: "",
+        },
+        {
+          book: "Colossians",
+          verse: "2:22",
+          text: "",
+        },
+      ],
+      [
+        {
           book: "Malachi",
           verse: "1:7-8, 14",
           text: "",
@@ -7129,8 +7128,8 @@ const largerCatechism = [
       ],
       [
         {
-          book: "Psalms",
-          verse: "106:39",
+          book: "Jeremiah",
+          verse: "8:8",
           text: "",
         },
       ],
@@ -7158,31 +7157,7 @@ const largerCatechism = [
       [
         {
           book: "Isaiah",
-          verse: "65:3-5",
-          text: "",
-        },
-        {
-          book: "Galatians",
-          verse: "1:13-14",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "1 Samuel",
-          verse: "13:11-12",
-          text: "",
-        },
-        {
-          book: "1 Samuel",
-          verse: "15:21",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Acts",
-          verse: "8:18",
+          verse: "5:12",
           text: "",
         },
       ],
@@ -7192,35 +7167,33 @@ const largerCatechism = [
           verse: "2:22",
           text: "",
         },
+      ],
+      [
+        {
+          book: "Leviticus",
+          verse: "20:6",
+          text: "",
+        },
+        {
+          book: "1 Samuel",
+          verse: "28:7, 11",
+          text: "",
+        },
+        {
+          book: "1 Chronicles",
+          verse: "10:13-14",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Ezekiel",
+          verse: "33:31-32",
+          text: "",
+        },
         {
           book: "Malachi",
-          verse: "3:8",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Exodus",
-          verse: "4:24-26",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Matthew",
-          verse: "22:5",
-          text: "",
-        },
-        {
-          book: "Malachi",
-          verse: "1:7, 13",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Matthew",
-          verse: "23:13",
+          verse: "1:7-8, 13",
           text: "",
         },
       ],
@@ -7682,25 +7655,44 @@ const largerCatechism = [
       ],
       [
         {
-          book: "1 Samuel",
-          verse: "17:43",
+          book: "Esther",
+          verse: "3:7",
           text: "",
         },
         {
-          book: "2 Samuel",
-          verse: "16:5",
+          book: "Esther",
+          verse: "9:24",
+          text: "",
+        },
+        {
+          book: "Psalms",
+          verse: "22:18",
           text: "",
         },
       ],
       [
         {
-          book: "Jeremiah",
-          verse: "5:7",
+          book: "Psalms",
+          verse: "24:4, Ezek. 17:16, 18-19",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Mark",
+          verse: "6:26",
           text: "",
         },
         {
-          book: "Jeremiah",
-          verse: "23:10",
+          book: "1 Samuel",
+          verse: "25:22, 32-34",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "2:23-24",
           text: "",
         },
       ],
@@ -7755,102 +7747,116 @@ const largerCatechism = [
       [
         {
           book: "Romans",
-          verse: "9:14, 19-20",
+          verse: "2:23-24",
           text: "",
         },
       ],
       [
         {
           book: "Deuteronomy",
-          verse: "29:29",
+          verse: "23:18",
+          text: "",
+        },
+        {
+          book: "Acts",
+          verse: "23:12, 14",
           text: "",
         },
       ],
       [
         {
-          book: "Romans",
-          verse: "3:5, 7",
+          book: "Hosea",
+          verse: "8:12",
           text: "",
         },
         {
-          book: "Romans",
-          verse: "6:1-2",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Ecclesiastes",
-          verse: "8:11",
-          text: "",
-        },
-        {
-          book: "Ecclesiastes",
-          verse: "9:3",
+          book: "1 Corinthians",
+          verse: "2:6-7, 13",
           text: "",
         },
         {
           book: "Psalms",
-          verse: "39:1-13",
+          verse: "119:18, 129",
           text: "",
         },
       ],
       [
         {
-          book: "Matthew",
-          verse: "5:21-48",
+          book: "Psalms",
+          verse: "12:6",
+          text: "",
+        },
+        {
+          book: "Psalms",
+          verse: "119:140",
           text: "",
         },
       ],
       [
         {
-          verse: "13:22",
+          book: "Acts",
+          verse: "10:43",
+          text: "",
+        },
+        {
+          book: "Acts",
+          verse: "26:22",
           text: "",
         },
       ],
       [
         {
-          book: "2 Peter",
-          verse: "3:16",
-          text: "",
-        },
-        {
-          book: "Matthew",
-          verse: "22:24-31",
+          book: "Romans",
+          verse: "3:19, 27",
           text: "",
         },
       ],
       [
         {
-          book: "Isaiah",
-          verse: "22:18",
+          book: "Acts",
+          verse: "23:28",
           text: "",
         },
         {
-          book: "Jeremiah",
-          verse: "23:34, 36, 38",
+          book: "Hebrews",
+          verse: "4:12",
+          text: "",
+        },
+        {
+          book: "James",
+          verse: "1:18",
+          text: "",
+        },
+        {
+          book: "Psalms",
+          verse: "19:7-9",
+          text: "",
+        },
+        {
+          book: "Romans",
+          verse: "15:4",
+          text: "",
+        },
+        {
+          book: "Acts",
+          verse: "20:32",
           text: "",
         },
       ],
       [
         {
-          book: "1 Timothy",
-          verse: "1:4, 6-7",
+          book: "John",
+          verse: "16:13-14",
           text: "",
         },
         {
-          book: "1 Timothy",
-          verse: "6:4-5, 20",
+          book: "John",
+          verse: "20:31",
           text: "",
         },
         {
-          book: "2 Timothy",
-          verse: "2:14",
-          text: "",
-        },
-        {
-          book: "Titus",
-          verse: "3:9",
+          book: "1 John",
+          verse: "2:20, 27",
           text: "",
         },
       ],
@@ -7931,7 +7937,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "1",
+          book: "Acts",
+          verse: "19:9",
           text: "",
         },
         {
@@ -9125,6 +9132,50 @@ const largerCatechism = [
         },
       ],
       [
+        {
+          book: "Ephesians",
+          verse: "6:4",
+          text: "",
+        },
+        {
+          book: "1 Peter",
+          verse: "2:18-20",
+          text: "",
+        },
+        {
+          book: "Hebrews",
+          verse: "12:10",
+          text: "",
+        },
+        {
+          book: "Deuteronomy",
+          verse: "25:3",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Genesis",
+          verse: "38:11, 26",
+          text: "",
+        },
+        {
+          book: "Acts",
+          verse: "18:17",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Proverbs",
+          verse: "4:14-16",
+          text: "",
+        },
+        {
+          book: "2 Corinthians",
+          verse: "12:14",
+          text: "",
+        },
         {
           book: "1 Timothy",
           verse: "4:12",
@@ -10913,13 +10964,6 @@ const largerCatechism = [
       ],
       [
         {
-          book: "Matthew",
-          verse: "6:25, 31, 34, Eccl. 5:12",
-          text: "",
-        },
-      ],
-      [
-        {
           book: "Psalms",
           verse: "37:1, 7",
           text: "",
@@ -10954,7 +10998,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "2",
+          book: "Proverbs",
+          verse: "28:19",
           text: "",
         },
       ],
@@ -12368,11 +12413,13 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "1",
+          book: "Romans",
+          verse: "15:4",
           text: "",
         },
         {
-          verse: "1",
+          book: "Romans",
+          verse: "16:25",
           text: "",
         },
         {
@@ -12658,7 +12705,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "5",
+          book: "1 Timothy",
+          verse: "5:22",
           text: "",
         },
       ],
@@ -13878,7 +13926,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "2",
+          book: "Matthew",
+          verse: "26:28",
           text: "",
         },
       ],
@@ -14226,19 +14275,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "1",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "2 Chronicles",
-          verse: "30:18-19",
-          text: "",
-        },
-        {
-          book: "Isaiah",
-          verse: "1:16, 18",
+          book: "Psalms",
+          verse: "123:1-2",
           text: "",
         },
       ],
@@ -15025,13 +15063,6 @@ const largerCatechism = [
           text: "",
         },
       ],
-    ],
-  },
-  {
-    id: 188,
-    question: "Of how many parts doth the Lord’s prayer consist?",
-    answer: [
-      "The Lord’s prayer consists of three parts; a preface, petitions, and a conclusion.",
     ],
   },
   {
@@ -15956,13 +15987,6 @@ const largerCatechism = [
       [
         {
           book: "Matthew",
-          verse: "26:41",
-          text: "",
-        },
-      ],
-      [
-        {
-          book: "Matthew",
           verse: "26:69-72",
           text: "",
         },
@@ -16219,4 +16243,4 @@ const largerCatechism = [
   },
 ];
 
-module.exports = { largerCatechism };
+module.exports = { formattedArray };
