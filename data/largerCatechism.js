@@ -1343,7 +1343,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "8",
+          book: "Romans",
+          verse: "8:7-8",
           text: "",
         },
         {
@@ -1452,7 +1453,12 @@ const largerCatechism = [
         },
         {
           book: "Matthew",
-          verse: "25:41, 46, Jude 1:7",
+          verse: "25:41, 46",
+          text: "",
+        },
+        {
+          book: "Jude",
+          verse: "1:7",
           text: "",
         },
       ],
@@ -3510,7 +3516,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "4",
+          book: "Psalms",
+          verse: "45:17",
           text: "",
         },
         {
@@ -4155,7 +4162,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "1",
+          book: "Acts",
+          verse: "16:30",
           text: "",
         },
         {
@@ -4912,11 +4920,13 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "5",
+          book: "Psalms",
+          verse: "51:8, 12",
           text: "",
         },
         {
-          verse: "7",
+          book: "Psalms",
+          verse: "77:1-12",
           text: "",
         },
         {
@@ -5880,6 +5890,273 @@ const largerCatechism = [
           text: "",
         },
       ],
+    ],
+  },
+  {
+    id: 99,
+    question: "",
+    answer: [
+      "1. That the law is perfect, and bindeth everyone to full conformity in the whole man unto the righteousness thereof, and unto entire obedience forever; so as to require the utmost perfection of every duty, and to forbid the least degree of every sin.",
+      "2. That it is spiritual, and so reaches the understanding, will, affections, and all other powers of the soul; as well as words, works, and gestures.",
+      "3. That one and the same thing, in divers respects, is required or forbidden in several commandments.",
+      "4. That as, where a duty is commanded, the contrary sin is forbidden;",
+      "and, where a sin is forbidden, the contrary duty is commanded:",
+      "so, where a promise is annexed, the contrary threatening is included;",
+      "and, where a threatening is annexed, the contrary promise is included.",
+      "5. That what God forbids, is at no time to be done;",
+      "What he commands, is always our duty;",
+      "and yet every particular duty is not to be done at all times.",
+      "6. That under one sin or duty, all of the same kind are forbidden or commanded; together with all the causes, means, occasions, and appearances thereof, and provocations thereunto.",
+      "7. That what is forbidden or commanded to ourselves, we are bound, according to our places, to endeavor that it may be avoided or performed by others, according to the duty of their places.",
+      "8. That in what is commanded to others, we are bound, according to our places and callings, to be helpful to them;",
+      "and to take heed of partaking with others in: What is forbidden them.",
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Psalms",
+          verse: "19:7",
+          text: "",
+        },
+        {
+          book: "James",
+          verse: "2:10",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "5:21-22",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "7:14",
+          text: "",
+        },
+        {
+          book: "Deuteronomy",
+          verse: "6:5",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "5:21-22, 27-28, 33-34, 37-39, 43-44",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "22:37-39",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Colossians",
+          verse: "3:5",
+          text: "",
+        },
+        {
+          book: "Amos",
+          verse: "8:5",
+          text: "",
+        },
+        {
+          book: "Proverbs",
+          verse: "1:19",
+          text: "",
+        },
+        {
+          book: "1 Timothy",
+          verse: "6:10",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "58:13",
+          text: "",
+        },
+        {
+          book: "Deuteronomy",
+          verse: "6:13",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "4:9-10",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "15:4-6",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "5:21-25",
+          text: "",
+        },
+        {
+          book: "Ephesians",
+          verse: "4:28",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Exodus",
+          verse: "20:12",
+          text: "",
+        },
+        {
+          book: "Proverbs",
+          verse: "30:17",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "18:7-8",
+          text: "",
+        },
+        {
+          book: "Exodus",
+          verse: "20:7",
+          text: "",
+        },
+        {
+          book: "Psalms",
+          verse: "15:1, 4-5",
+          text: "",
+        },
+        {
+          book: "Psalms",
+          verse: "24:4-5",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Job",
+          verse: "13:7",
+          text: "",
+        },
+        {
+          book: "Job",
+          verse: "36:21",
+          text: "",
+        },
+        {
+          book: "Romans",
+          verse: "3:8",
+          text: "",
+        },
+        {
+          book: "Hebrews",
+          verse: "11:25",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "4:8-9",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "12:7",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "5:21-22, 27-28",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "15:4-6",
+          text: "",
+        },
+        {
+          book: "Hebrews",
+          verse: "10:24-25",
+          text: "",
+        },
+        {
+          book: "1 Thessalonians",
+          verse: "5:22-23",
+          text: "",
+        },
+        {
+          book: "Galatians",
+          verse: "5:26",
+          text: "",
+        },
+        {
+          book: "Colossians",
+          verse: "3:21",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Exodus",
+          verse: "20:10",
+          text: "",
+        },
+        {
+          book: "Leviticus",
+          verse: "19:17",
+          text: "",
+        },
+        {
+          book: "Genesis",
+          verse: "18:19",
+          text: "",
+        },
+        {
+          book: "Joshua",
+          verse: "24:15",
+          text: "",
+        },
+        {
+          book: "Deuteronomy",
+          verse: "6:6-7",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "2 Corinthians",
+          verse: "1:24",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "1 Timothy",
+          verse: "5:22",
+          text: "",
+        },
+      ],
+    ],
+  },
+  {
+    id: 100,
+    question: "What special things are we to consider in the ten commandments?",
+    answer: [
+      "We are to consider, in the ten commandments, the preface, the substance of the commandments themselves, and several reasons annexed to some of them, the more to enforce them.",
     ],
   },
   {
@@ -7042,7 +7319,7 @@ const largerCatechism = [
         },
         {
           book: "Revelation",
-          verse: "2:2, 14-15, 20, ",
+          verse: "2:2, 14-15, 20",
           text: "",
         },
       ],
@@ -7736,7 +8013,12 @@ const largerCatechism = [
       [
         {
           book: "Psalms",
-          verse: "24:4, Ezek. 17:16, 18-19",
+          verse: "24:4",
+          text: "",
+        },
+        {
+          book: "Ezekiel",
+          verse: "17:16, 18-19",
           text: "",
         },
       ],
@@ -7804,6 +8086,7 @@ const largerCatechism = [
       ],
       [
         {
+          book: "Ezekiel",
           verse: "13:22",
           text: "",
         },
@@ -7931,7 +8214,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "1",
+          book: "Acts",
+          verse: "19:9",
           text: "",
         },
         {
@@ -10651,7 +10935,12 @@ const largerCatechism = [
         },
         {
           book: "Philippians",
-          verse: "2:4, Matt. 22:39",
+          verse: "2:4",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "22:39",
           text: "",
         },
       ],
@@ -10914,7 +11203,12 @@ const largerCatechism = [
       [
         {
           book: "Matthew",
-          verse: "6:25, 31, 34, Eccl. 5:12",
+          verse: "6:25, 31, 34",
+          text: "",
+        },
+        {
+          book: "Ecclesiastes",
+          verse: "5:12",
           text: "",
         },
       ],
@@ -10954,7 +11248,8 @@ const largerCatechism = [
           text: "",
         },
         {
-          verse: "2",
+          book: "Proverbs",
+          verse: "28:19",
           text: "",
         },
       ],
@@ -12069,6 +12364,720 @@ const largerCatechism = [
         {
           book: "Psalms",
           verse: "78:17, 32, 56",
+          text: "",
+        },
+      ],
+    ],
+  },
+  {
+    id: 151,
+    question:
+      "What are those aggravations that make some sins more heinous than others?",
+    answer: [
+      "1. From the persons offending:",
+      "if they be of riper age,",
+      "greater experience or grace,",
+      "eminent for profession,",
+      "gifts,",
+      "place,",
+      "office,",
+      "guides to others,",
+      "and whose example is likely to be followed by others.",
+      "2. From the parties offended:",
+      "if immediately against God,",
+      "his attributes,",
+      "and worship;",
+      "against Christ, and his grace;",
+      "the Holy Spirit,",
+      "his witness,",
+      "and workings;",
+      "against superiors, men of eminency,",
+      "and such as we stand especially related and engaged unto;",
+      "against any of the saints,",
+      "particularly weak brethren,",
+      "the souls of them, or any other,",
+      "and the common good of all or many.",
+      "3. From the nature and quality of the offense:",
+      "if it be against the express letter of the law,",
+      "break many commandments, contain in it many sins:",
+      "if not only conceived in the heart, but breaks forth in words and actions,",
+      "scandalize others,",
+      "and admit of no reparation:",
+      "if against means,",
+      "mercies,",
+      "judgments,",
+      "light of nature,",
+      "conviction of conscience,",
+      "public or private admonition,",
+      "censures of the church,",
+      "civil punishments;",
+      "and our prayers, purposes, promises,",
+      "vows,",
+      "covenants,",
+      "and engagements to God or men:",
+      "if done deliberately,",
+      "wilfully,",
+      "presumptuously,",
+      "impudently,",
+      "boastingly,",
+      "maliciously,",
+      "frequently,",
+      "obstinately,",
+      "with delight,",
+      "continuance,",
+      "or relapsing after repentance.",
+      "4. From circumstances of time ",
+      "and place:",
+      "if on the Lord’s day,",
+      "or other times of divine worship;",
+      "or immediately before ",
+      "or after these,",
+      "or other helps to prevent or remedy such miscarriages:",
+      "if in public, or in the presence of others, who are thereby likely to be provoked or defiled.",
+    ],
+    proofTexts: [
+      [
+        {
+          book: "Jeremiah",
+          verse: "2:8",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Job",
+          verse: "32:7, 9",
+          text: "",
+        },
+        {
+          book: "Ecclesiastes",
+          verse: "4:13",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "1 Kings",
+          verse: "11:4, 9",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "2 Samuel",
+          verse: "12:14",
+          text: "",
+        },
+        {
+          book: "1 Corinthians",
+          verse: "5:1",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "James",
+          verse: "4:17",
+          text: "",
+        },
+        {
+          book: "Luke",
+          verse: "12:47-48",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "5:4-5",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "2 Samuel",
+          verse: "12:7-9",
+          text: "",
+        },
+        {
+          book: "Ezekiel",
+          verse: "8:11-12",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "2:17-24",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Galatians",
+          verse: "2:11-14",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "21:38-39",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "1 Samuel",
+          verse: "2:25",
+          text: "",
+        },
+        {
+          book: "Acts",
+          verse: "5:4",
+          text: "",
+        },
+        {
+          book: "Psalms",
+          verse: "51:4",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "2:4",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Malachi",
+          verse: "1:8, 14",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Hebrews",
+          verse: "2:2-3",
+          text: "",
+        },
+        {
+          book: "Hebrews",
+          verse: "12:25",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Hebrews",
+          verse: "10:29",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "12:31-32",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Ephesians",
+          verse: "4:30",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Hebrews",
+          verse: "6:4-6",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jude",
+          verse: "1:8",
+          text: "",
+        },
+        {
+          book: "Numbers",
+          verse: "12:8-9",
+          text: "",
+        },
+        {
+          book: "Isaiah",
+          verse: "3:5",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Proverbs",
+          verse: "30:17",
+          text: "",
+        },
+        {
+          book: "2 Corinthians",
+          verse: "12:15",
+          text: "",
+        },
+        {
+          book: "Psalms",
+          verse: "55:12-15",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Zephaniah",
+          verse: "2:8, 10-11",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "18:6",
+          text: "",
+        },
+        {
+          book: "1 Corinthians",
+          verse: "6:8",
+          text: "",
+        },
+        {
+          book: "Revelation",
+          verse: "17:6",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "1 Corinthians",
+          verse: "8:11-12",
+          text: "",
+        },
+        {
+          book: "Romans",
+          verse: "14:13, 15, 21",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Ezekiel",
+          verse: "13:19",
+          text: "",
+        },
+        {
+          book: "1 Corinthians",
+          verse: "8:12",
+          text: "",
+        },
+        {
+          book: "Revelation",
+          verse: "18:12-13",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "23:15",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "1 Thessalonians",
+          verse: "2:15-16",
+          text: "",
+        },
+        {
+          book: "Joshua",
+          verse: "22:20",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Proverbs",
+          verse: "6:30-35",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Ezra",
+          verse: "9:10-12",
+          text: "",
+        },
+        {
+          book: "1 Kings",
+          verse: "11:9-10",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Colossians",
+          verse: "3:5",
+          text: "",
+        },
+        {
+          book: "1 Timothy",
+          verse: "6:10",
+          text: "",
+        },
+        {
+          book: "Proverbs",
+          verse: "5:8-12",
+          text: "",
+        },
+        {
+          book: "Proverbs",
+          verse: "6:32-33",
+          text: "",
+        },
+        {
+          book: "Joshua",
+          verse: "7:21",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "James",
+          verse: "1:14-15",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "5:22",
+          text: "",
+        },
+        {
+          book: "Micah",
+          verse: "2:1",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "18:7",
+          text: "",
+        },
+        {
+          book: "Romans",
+          verse: "2:23-24",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Deuteronomy",
+          verse: "22:22, 28-29",
+          text: "",
+        },
+        {
+          book: "Proverbs",
+          verse: "6:32-35",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Matthew",
+          verse: "11:21-24",
+          text: "",
+        },
+        {
+          book: "John",
+          verse: "15:22",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "1:3",
+          text: "",
+        },
+        {
+          book: "Deuteronomy",
+          verse: "32:6",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Amos",
+          verse: "4:8-11",
+          text: "",
+        },
+        {
+          book: "Jeremiah",
+          verse: "5:8",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "1:26-27",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Romans",
+          verse: "1:32",
+          text: "",
+        },
+        {
+          book: "Daniel",
+          verse: "5:22",
+          text: "",
+        },
+        {
+          book: "Titus",
+          verse: "3:10-11",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Proverbs",
+          verse: "29:1",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Titus",
+          verse: "3:10",
+          text: "",
+        },
+        {
+          book: "Matthew",
+          verse: "18:17",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Proverbs",
+          verse: "23:35, 27:22",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "78:34-37",
+          text: "",
+        },
+        {
+          book: "Jeremiah",
+          verse: "2:20, 13:5-6, 20-21",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Ecclesiastes",
+          verse: "5:4-6",
+          text: "",
+        },
+        {
+          book: "Proverbs",
+          verse: "20:25",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Leviticus",
+          verse: "26:25",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Proverbs",
+          verse: "2:17",
+          text: "",
+        },
+        {
+          book: "Ezekiel",
+          verse: "17:18-19",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "36:4",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "6:16",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Numbers",
+          verse: "15:30",
+          text: "",
+        },
+        {
+          book: "Exodus",
+          verse: "21:14",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "3:3",
+          text: "",
+        },
+        {
+          book: "Proverbs",
+          verse: "7:13",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Psalms",
+          verse: "52:1",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "3 John",
+          verse: "1:10",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Numbers",
+          verse: "14:22",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Zechariah",
+          verse: "7:11-12",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Proverbs",
+          verse: "2:14",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "57:17",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "34:8-11",
+          text: "",
+        },
+        {
+          book: "2 Peter",
+          verse: "2:20-22",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "2 Kings",
+          verse: "5:26",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "7:10",
+          text: "",
+        },
+        {
+          book: "Isaiah",
+          verse: "26:10",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Ezekiel",
+          verse: "23:37-39",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Isaiah",
+          verse: "58:3-5",
+          text: "",
+        },
+        {
+          book: "Numbers",
+          verse: "25:6-7",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "1 Corinthians",
+          verse: "11:20-21",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Jeremiah",
+          verse: "7:8-10, 14-15",
+          text: "",
+        },
+        {
+          book: "John",
+          verse: "13:27, 30",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "Ezra",
+          verse: "9:13-14",
+          text: "",
+        },
+      ],
+      [
+        {
+          book: "2 Samuel",
+          verse: "16:22",
+          text: "",
+        },
+        {
+          book: "1 Samuel",
+          verse: "2:22-24",
           text: "",
         },
       ],
