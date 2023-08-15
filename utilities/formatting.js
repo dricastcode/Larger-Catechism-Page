@@ -101,15 +101,17 @@ const findUniqueNamesForBibleBooks = (catechismArray) => {
 
 const findAnswerAndProofTextLengthMismatch = (catechismArray) => {
   catechismArray.map((item) => {
-    const { id, answer, proofTexts } = item;
-    if (answer.length !== proofTexts.length) {
-      const excludedIds = [11, 12, 42, 50, 90];
-      if (!excludedIds.includes(id)) {
-        console.log({
-          id,
-          answer: answer.length,
-          proofTexts: proofTexts.length,
-        });
+    const { id, answer } = item;
+    if (item.proofTexts) {
+      if (answer.length !== item.proofTexts.length) {
+        const excludedIds = [11, 12, 42, 50, 90];
+        if (!excludedIds.includes(id)) {
+          console.log({
+            id,
+            answer: answer.length,
+            proofTexts: item.proofTexts.length,
+          });
+        }
       }
     }
   });
