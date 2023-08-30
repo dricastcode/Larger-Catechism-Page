@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 import "./scss/main.scss";
+import "./scss/fontFam.scss";
 import Catechism from "./components/Catechism";
 
 function App() {
